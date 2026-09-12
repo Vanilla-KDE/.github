@@ -1,5 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/img/welcome/kipferl_fairy_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/img/welcome/kipferl_fairy_light.png">
+    <img alt="Kipferl Logo" src="../assets/img/welcome/kipferl_fairy_light.png">
+  </picture>
+</p>
 
-![Vanilla Kipferl](../assets/img/welcome/kipferl.png)
 
 <div align="center">
 
